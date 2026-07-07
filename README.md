@@ -166,32 +166,6 @@ The evaluation compares different feature extractors and measures how effectivel
 
 ---
 
-## Screenshots
-
-### Home Page
-
-> *Add a screenshot of the Streamlit home page.*
-
----
-
-### Query Image
-
-> *Add a screenshot showing the uploaded query image.*
-
----
-
-### Retrieval Results
-
-> *Add a screenshot displaying the retrieved similar images.*
-
----
-
-### Evaluation Dashboard
-
-> *Add a screenshot of the evaluation dashboard.*
-
----
-
 ## Future Improvements
 
 - Support larger image datasets
